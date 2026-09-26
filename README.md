@@ -67,3 +67,10 @@ Coordination
 Display feedback such as: Present feedback like:.
 
 Between attempts your score varied. This result by itself does not point to any medical issue.
+
+
+
+
+## Game Demo Videos
+
+[🎮 Watch Quiz Game & Word Scramble Demo](https://drive.google.com/drive/folders/1-lvKWZuR3op5dK6rjZ38N2C7atkTD1qe?usp=sharing)
